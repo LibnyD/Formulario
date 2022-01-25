@@ -187,7 +187,55 @@
 # Kubernets
 ##  Es una plataforma de código abierto que orquesta sistemas de tiempo de ejecución de contenedores en un clúster de recursos de hardware en red. Originalmente lo desarrolló Google, que necesitaba una nueva forma de ejecutar miles de millones de contenedores a la semana a escala.
 
+# Git Hub
+
+# Fork
+
+# Clonar
+
+# VS plugins
+
+# Live server
+
+# Hostear
+
+# Localhost
+
+# IP
+
+# Variable
+
+# String
+
+# Concatenar
+
+# Compilado
+
+# Scope
+
+# Condicional ternario
+
+# JSON
+
+# For
+
+# While
+
+# Do while
+
+# Arreglo o Array
+
+# ForEach
+
+# Constante
 
 
+# Variable
+
+# Objeto
+
+# Función
+
+# Parámetro
 
 
