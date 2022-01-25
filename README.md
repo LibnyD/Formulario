@@ -77,14 +77,117 @@
 ## Es un proceso de verificación e inicialización de los componentes de entrada y salida en un sistema computacional que se encarga de configurar y diagnosticar el estado del hardware.
 
 # GET 
+## Define un método de descriptor de acceso en una propiedad o un indizador que devuelve el valor de la propiedad o el elemento del indizador.
 
 # DELATE
+## suprime filas de una tabla, apodo o vista, o las tablas, apodos o vistas subyacentes de la selección completa especificada. 
 
 # HTTP
+## Es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos, como pueden ser documentos HTML
 
 # HEADER
+## Es un término que en lenguaje de programación designa la parte superior de un sitio web.
 
-# HEADERS
+# Backend
+## Alude a aquella parte de la programación que no es visible para el usuario.
+
+# Frontend
+## Es la parte del desarrollo web que se dedica a la parte frontal de un sitio web, en pocas palabras del diseño de un sitio web, desde la estructura del sitio hasta los estilos como colores, fondos, tamaños hasta llegar a las animaciones y efectos.
+
+# Algoritmo
+## Es una serie de instrucciones secuenciales ―es decir, que van uno después del otro― que permiten ejecutar acciones o programas.
+
+# Estructuras de datos
+## Es una forma particular de organizar datos en una computadora para que puedan ser utilizados de manera eficiente. 
+
+# Caché
+## Es una capa de almacenamiento de datos de alta velocidad que almacena un subconjunto de datos, normalmente transitorios, de modo que las solicitudes futuras de dichos datos se atienden con mayor rapidez que si se debe acceder a los datos desde la ubicación de almacenamiento principal.
+
+# Socket
+## Concepto abstracto por el cual dos procesos pueden intercambiar cualquier flujo de datos, generalmente de manera fiable y ordenada. Además es una estructura de datos que permite que dos máquinas se comuniquen entre ellas.
+
+# Array
+## Es una colección finita de datos del mismo tipo, que se almacenan en posiciones consecutivas de memoria y reciben un nombre común.
+
+# CI/DI
+## Es un método para distribuir las aplicaciones a los clientes con frecuencia mediante el uso de la automatización en las etapas del desarrollo de aplicaciones.
+
+# Linux
+## Es un sistema operativo semejante a Unix, de código abierto y desarrollado por una comunidad, para computadoras, servidores, mainframes, dispositivos móviles y dispositivos embebidos.
+
+# Hosting
+## Es un servicio de alojamiento en línea que te permite publicar un sitio o aplicación web en Internet. Cuando obtienes un hosting, básicamente alquilas un espacio en un servidor que almacena todos los archivos y datos de tu sitio web para que funcione correctamente.
+
+# SSL
+## Es una tecnología estandarizada que permite cifrar el tráfico de datos entre un navegador web y un sitio web (o entre dos servidores web), protegiendo así la conexión.
+
+# Bug
+## Es un error de Software.
+
+# Framework
+## Son una especie de template que cuenta con diversas funcionalidades que puede ser utilizada en proyectos. Ellos cuentan con herramientas, sistemas, componentes y guías que agilizan el proceso de creación de soluciones; siendo, por lo tanto, un artificio esencial en la vida de un profesional en TI.
+
+# Libreria
+## Es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, que ofrece una interfaz bien definida para la funcionalidad que se invoca.
+
+# REST
+## Es cualquier interfaz entre sistemas que use HTTP para obtener datos o generar operaciones sobre esos datos en todos los formatos posibles, como XML y JSON.
+
+# GraphQL
+## Es un lenguaje de consulta y un tiempo de ejecución del servidor para las interfaces de programación de aplicaciones (API); su función es brindar a los clientes exactamente los datos que solicitan y nada más.
+
+# Request
+## Permite el acceso a toda la información que pasa desde el navegador del cliente al servidor
+
+# DevOps
+## Es un marco y una filosofía en constante evolución que promueve un mejor ... Scrum y Kanban, han incorporado elementos de la programación Agile.
+
+# Scrum
+## Es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias.
+
+# Agile
+## Se refiere a un grupo de metodologías aplicadas en la creación de software que basa su desarrollo en un ciclo iterativo , en el que las necesidades y soluciones evolucionan a través de la colaboración entre los diferentes equipos involucrados en el proyecto.
+
+# Full Stack
+## Es un programador con un perfil técnico muy completo que conoce bien tanto lo referente a back-end como lo referente a front-end, se maneja en sistemas y sabe entender. Se trata de un perfil cada vez más demandado y bien remunerado.
+
+# UX
+## Experiencia de Usuario, es aquello que una persona percibe al interactuar con un producto o servicio.
+
+# UI
+## Se refiere a la creación de la interfaz, que puede ser gráfica o desarrollada principalmente con lenguajes como HTML, CSS o Javascript, mientras que UX se centra en la usabilidad, enfocándose en el análisis y las relaciones sociales.
+
+# SysAdmin
+## El rol se encarga de verificar que todos los sistemas (como su nombre lo indica) funcionen de manera óptima, se trate de softwares o hardwares.
+
+# QA
+## Significa Quality Assurance y su función no solo abarca el control de calidad del desarrollo del software sino también ayudar a todo el equipo para que las cosas funcionen correctamente.
+
+# Tester
+## Planifican y llevan a cabo pruebas de software de los ordenadores para comprobar si funcionan correctamente. Identifican el riesgo de sufrir errores de un software, detectan errores y los comunican.
+
+# DBA
+## Es el técnico de información responsable de dirigir o realizar todas las actividades relacionadas con el mantenimiento de un entorno de base de datos exitoso.
+
+# Cyberseguridad
+## Es la práctica de defender las computadoras, los servidores, los dispositivos móviles, los sistemas electrónicos, las redes y los datos de ataques maliciosos. También se conoce como seguridad de tecnología de la información o seguridad de la información electrónica.
+
+# Hack
+## Es un lenguaje de programación de alto nivel para la Máquina Virtual HipHop, creado por Facebook como una extensión del lenguaje PHP.
+
+# Cookies
+## Es un paquete de datos que un navegador web almacena de forma automática en el ordenador de un usuario cuando este visita una página web. La cookie es enviada desde el servidor al visitante de la página web.
+
+# Responsive
+## Nos referimos principalmente a “responsive design” (diseño web adaptable). Esto significa hacer que un sitio web sea accesible y adaptable en todos los devices: tabletas, smartphones, etc.
+
+# Micro servicios
+## Son los miles de estándares web, lenguajes de programación, plataformas de bases de datos y componentes de servidores web independientes que los desarrolladores utilizan como herramientas en el ciclo de vida del desarrollo de software contemporáneo.
+
+# Kubernets
+##  Es una plataforma de código abierto que orquesta sistemas de tiempo de ejecución de contenedores en un clúster de recursos de hardware en red. Originalmente lo desarrolló Google, que necesitaba una nueva forma de ejecutar miles de millones de contenedores a la semana a escala.
+
+
 
 
 
